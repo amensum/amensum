@@ -1,4 +1,4 @@
-![Hello there...](https://github.githubassets.com/images/mona-whisper.gif)
+![Hello there...](https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
 <!--
 **amensum/amensum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
