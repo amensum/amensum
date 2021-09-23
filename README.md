@@ -1,4 +1,4 @@
-![](./QR.png)
+[![](./QR.png)](https://bit.ly/3kCGEli)
 
 <!--
 **amensum/amensum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
